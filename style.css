@@ -83,7 +83,7 @@
     transform: translateY(-6px);
 }
 .box-img{
-    padding: 5px 15px;
+/*     padding: 5px 15px; */
     transition: tranform 2s ease-in-out;  
 }
 
